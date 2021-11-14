@@ -1,14 +1,14 @@
-# local-share
+# files-share
 
 a simple tool to share local files
 
-local-share is:
+files-share is:
 
 - Easy - You can easily share your local files with people on the same LAN
 
 ## Installation
 
-    $ npm install -g local-share
+    $ npm install -g files-share
 
 ## Usage
 
