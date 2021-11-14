@@ -1,0 +1,31 @@
+{
+  "name": "files-share",
+  "version": "1.0.0",
+  "description": "a simple tool to share local files",
+  "bin": {
+    "share": "cli.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/byxiazi/files-share"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "download",
+    "share",
+    "local files"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@koa/router": "^10.1.1",
+    "address": "^1.1.2",
+    "commander": "^8.3.0",
+    "koa": "^2.13.4",
+    "koa-static": "^5.0.0",
+    "koa-views": "^7.0.2",
+    "mustache": "^4.2.0"
+  }
+}
